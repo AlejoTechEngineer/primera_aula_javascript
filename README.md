@@ -16,6 +16,14 @@
 
 Primera práctica de programación web con **JavaScript** en el aula: desarrollo de la aplicación **Melodicos**, una experiencia web interactiva de contenido musical. Aplica los fundamentos de JavaScript ES6+ para la manipulación del DOM, manejo de eventos y renderizado dinámico de contenido musical en el navegador.
 
+## Tecnologías utilizadas
+
+| Tecnología | Uso |
+|---|---|
+| JavaScript ES6+ | Lógica de interactividad y manipulación del DOM |
+| HTML5 | Estructura semántica y elementos multimedia |
+| CSS3 | Diseño visual y animaciones |
+
 ## Arquitectura
 
 ```mermaid
@@ -27,14 +35,6 @@ flowchart TD
     C --> F[Renderizado Musical Dinamico]
     D & E & F --> G[JavaScript ES6+]
 ```
-
-## Tecnologías utilizadas
-
-| Tecnología | Uso |
-|---|---|
-| JavaScript ES6+ | Lógica de interactividad y manipulación del DOM |
-| HTML5 | Estructura semántica y elementos multimedia |
-| CSS3 | Diseño visual y animaciones |
 
 ## Conceptos JavaScript aplicados
 
