@@ -1,3 +1,5 @@
+<div align="center">
+
 # Primera Aula JavaScript — Melodicos
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -7,6 +9,10 @@
 > Primera práctica de JavaScript: aplicación interactiva web de contenido musical — Melodicos.
 
 ## Descripción
+
+</div>
+
+---
 
 Primera práctica de programación web con **JavaScript** en el aula: desarrollo de la aplicación **Melodicos**, una experiencia web interactiva de contenido musical. Aplica los fundamentos de JavaScript ES6+ para la manipulación del DOM, manejo de eventos y renderizado dinámico de contenido musical en el navegador.
 
@@ -29,3 +35,12 @@ Primera práctica de programación web con **JavaScript** en el aula: desarrollo
 
 **Asignatura:** Desarrollo Web · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
